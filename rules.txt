@@ -1,0 +1,11 @@
+MASTERMIND is a two player game played with four digit numbers. A player enters a four digit secret number where the digits range from 0-9. Then the other player tries to guess the opponents number who gives the number of matches. If the matching are on their right position they are bulls, if on different positions they are cows. 
+Example: Secret Number: 1234 
+ 	   Entered Number:3214
+ 	   No. of Bulls:  2
+ 	   No. of Cows :  2
+
+In our game we provide you with two options: Single Player or Two Players. An individual player will play against the computer. There are two modes while playing against the computer. In the easy mode, no two digits are repeated whereas in the hard mode two or more digits are repeated. A player has to guess the number within 10 tries. 
+
+In the two player mode a player enters the number and the opponent has to guess the number within 10 tries. If the player does so, he wins. 
+
+GO OUT THERE, BRAIN STORM AND GOOD LUCK! 
